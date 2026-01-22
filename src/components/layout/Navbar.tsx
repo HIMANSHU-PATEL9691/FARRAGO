@@ -47,7 +47,7 @@ export default function Navbar() {
             {/* Logo */}
             <Link to="/" className="relative z-10">
               <h1 className="text-2xl md:text-3xl font-serif font-semibold tracking-wide">
-                <span className="text-gold">FARRAGO</span>
+                <span className="text-gold">Club Tara</span>
               </h1>
             </Link>
 

@@ -10,7 +10,7 @@ const testimonials = [
     id: 1,
     name: 'Priya Sharma',
     location: 'Mumbai',
-    text: 'The bridal set I purchased from FARRAGO was absolutely stunning. The craftsmanship is unparalleled and the team made my wedding shopping experience so special.',
+    text: 'The bridal set I purchased from Club Tara was absolutely stunning. The craftsmanship is unparalleled and the team made my wedding shopping experience so special.',
     rating: 5,
   },
   {

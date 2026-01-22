@@ -113,7 +113,7 @@ export default function ShowroomPreview() {
             <div className="aspect-square overflow-hidden rounded-sm">
               <img
                 src={showroomImg}
-                alt="FARRAGO Jewellers showroom"
+                alt="Club Tara Jewellers showroom"
                 className="w-full h-full object-cover"
               />
             </div>

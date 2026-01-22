@@ -246,8 +246,8 @@ export default function Contact() {
                         patelelectronics888@gmail.com
                       </a>
                       <br />
-                      <a href="mailto:support@FARRAGO.com" className="hover:text-gold transition-colors">
-                        support@FARRAGO.com
+                      <a href="mailto:support@Club Tara.com" className="hover:text-gold transition-colors">
+                        support@Club Tara.com
                       </a>
                     </p>
                   </div>
@@ -271,7 +271,7 @@ export default function Contact() {
               <div id="showroom" className="aspect-video overflow-hidden rounded-sm">
                 <img
                   src={showroomImg}
-                  alt="FARRAGO Jewellers showroom"
+                  alt="Club Tara Jewellers showroom"
                   className="w-full h-full object-cover"
                 />
               </div>

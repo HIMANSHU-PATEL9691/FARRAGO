@@ -104,7 +104,7 @@ export default function AboutPreview() {
               A Legacy of <span className="text-gold italic">Craftsmanship</span>
             </h2>
             <p className="text-muted-foreground leading-relaxed mb-6">
-              For over three decades, FARRAGO Jewellers has been the trusted name 
+              For over three decades, Club Tara Jewellers has been the trusted name 
               in fine jewelry. Our master artisans combine traditional techniques 
               passed down through generations with contemporary designs to create 
               pieces that transcend time.

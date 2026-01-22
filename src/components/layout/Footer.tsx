@@ -31,7 +31,7 @@ export default function Footer() {
           {/* Brand */}
           <div className="lg:col-span-1">
             <h2 className="text-3xl font-serif font-semibold text-gold mb-6">
-              FARRAGO
+              Club Tara
             </h2>
             <p className="text-muted-foreground mb-6 leading-relaxed">
               Crafting timeless elegance since 1985. Each piece tells a story of 
@@ -132,7 +132,7 @@ export default function Footer() {
         {/* Bottom */}
         <div className="mt-16 pt-8 border-t border-border flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-sm text-muted-foreground">
-            © 2024 FARRAGO Jewellers. All rights reserved.
+            © 2024 Club Tara Jewellers. All rights reserved.
           </p>
           <div className="flex gap-6 text-sm text-muted-foreground">
             <Link to="/privacy" className="hover:text-gold transition-colors">

@@ -28,7 +28,7 @@ const values = [
 ];
 
 const timeline = [
-  { year: '1985', title: 'Foundation', description: 'FARRAGO Jewellers was established by Mr. Rajesh FARRAGO with a small workshop in Mumbai.' },
+  { year: '1985', title: 'Foundation', description: 'Club Tara Jewellers was established by Mr. Rajesh Club Tara with a small workshop in Mumbai.' },
   { year: '1995', title: 'Expansion', description: 'Opened our first retail showroom in Zaveri Bazaar, the heart of Mumbai jewelry trade.' },
   { year: '2005', title: 'Innovation', description: 'Introduced CAD technology for custom designs while preserving traditional craftsmanship.' },
   { year: '2015', title: 'Recognition', description: 'Received the National Jewellery Award for Excellence in Design and Craftsmanship.' },
@@ -46,12 +46,12 @@ export default function About() {
             animate={{ opacity: 1, y: 0 }}
             className="max-w-3xl"
           >
-            <span className="eyebrow mb-4 block">About FARRAGO</span>
+            <span className="eyebrow mb-4 block">About Club Tara</span>
             <h1 className="title-display mb-6">
               A Legacy of <span className="text-gold italic">Excellence</span>
             </h1>
             <p className="text-xl text-muted-foreground leading-relaxed">
-              For over three decades, FARRAGO Jewellers has been crafting timeless 
+              For over three decades, Club Tara Jewellers has been crafting timeless 
               pieces that celebrate life's most precious moments.
             </p>
           </motion.div>
@@ -89,7 +89,7 @@ export default function About() {
               </h2>
               <div className="space-y-4 text-muted-foreground leading-relaxed">
                 <p>
-                  In 1985, Mr. Rajesh FARRAGO started with a simple dream – to create 
+                  In 1985, Mr. Rajesh Club Tara started with a simple dream – to create 
                   jewelry that would be cherished for generations. What began as a 
                   small workshop in the lanes of Mumbai has grown into one of the 
                   most trusted names in fine jewelry.
@@ -97,10 +97,10 @@ export default function About() {
                 <p>
                   Our journey has been guided by an unwavering commitment to quality, 
                   authenticity, and customer satisfaction. Every piece that bears the 
-                  FARRAGO name is a testament to our dedication to excellence.
+                  Club Tara name is a testament to our dedication to excellence.
                 </p>
                 <p>
-                  Today, led by the third generation of the FARRAGO family, we continue 
+                  Today, led by the third generation of the Club Tara family, we continue 
                   to blend traditional craftsmanship with contemporary designs, creating 
                   jewelry that honors our heritage while embracing modern aesthetics.
                 </p>
@@ -243,7 +243,7 @@ export default function About() {
               <div className="aspect-square overflow-hidden rounded-sm">
                 <img
                   src={showroomImg}
-                  alt="FARRAGO Jewellers showroom"
+                  alt="Club Tara Jewellers showroom"
                   className="w-full h-full object-cover"
                 />
               </div>
